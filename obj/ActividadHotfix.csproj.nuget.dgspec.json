@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josue\\OneDrive\\Desktop\\ActividadHotfix\\ActividadHotfix.csproj": {}
+    "C:\\Users\\ELITEBOOK\\Un_Velazquez-Hotfix\\ActividadHotfix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josue\\OneDrive\\Desktop\\ActividadHotfix\\ActividadHotfix.csproj": {
+    "C:\\Users\\ELITEBOOK\\Un_Velazquez-Hotfix\\ActividadHotfix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josue\\OneDrive\\Desktop\\ActividadHotfix\\ActividadHotfix.csproj",
+        "projectUniqueName": "C:\\Users\\ELITEBOOK\\Un_Velazquez-Hotfix\\ActividadHotfix.csproj",
         "projectName": "ActividadHotfix",
-        "projectPath": "C:\\Users\\josue\\OneDrive\\Desktop\\ActividadHotfix\\ActividadHotfix.csproj",
-        "packagesPath": "C:\\Users\\josue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josue\\OneDrive\\Desktop\\ActividadHotfix\\obj\\",
+        "projectPath": "C:\\Users\\ELITEBOOK\\Un_Velazquez-Hotfix\\ActividadHotfix.csproj",
+        "packagesPath": "C:\\Users\\ELITEBOOK\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ELITEBOOK\\Un_Velazquez-Hotfix\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\josue\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ELITEBOOK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
